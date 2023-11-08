@@ -1,5 +1,0 @@
-<Limit GET POST PUT>
-order deny,allow
-deny from all
-allow from 192.168.17.130
-</Limit>
